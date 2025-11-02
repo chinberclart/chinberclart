@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Hey there!</b><br>
-  This account belongs to <strong>Chin</strong>, but it’s currently managed by <strong>Kera</strong> until Amira decides to take it over.
+  This account belongs to <strong>Chin</strong>, but it’s currently managed by <strong>Kera</strong> until Chin/Amira decides to take it over.
 </p>
 
 ---
