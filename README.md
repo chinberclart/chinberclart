@@ -1,5 +1,3 @@
-<h1 align="center">who are you?</h1>
-
 <p align="center">
   <b>Hey there!</b><br>
   This account belongs to <strong>Chin</strong>, but it’s currently managed by <strong>Kera</strong> until Chin/Amira decides to take it over.
